@@ -1,0 +1,8 @@
+patient_id,name,age,disease,hospital,doctor,treatment_cost
+1,John,45,Diabetes,City Hospital,Dr Smith,5000
+2,David,60,Heart Disease,Metro Hospital,Dr Lee,12000
+3,Ram,30,Flu,City Hospital,Dr Patel,1000
+4,Sara,50,Cancer,Global Hospital,Dr Khan,25000
+5,Rohit Kranthi,70,Mouth cancer,Kims,Dr Sai,40000
+6,Siddhu,22,Fever,Appolo,Dr Ramayya,100000
+7,Amar,33,Liver Damage,ASN,Dr SaiRam,30000
